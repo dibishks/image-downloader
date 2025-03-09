@@ -42,3 +42,6 @@ image-downloader/
 │── package.json         # Node.js dependencies
 │── README.md            # Project documentation
 │── .gitignore           # Files to ignore in Git
+
+
+Author: [Dibeesh KS](https://dibishks.github.io/db/)
